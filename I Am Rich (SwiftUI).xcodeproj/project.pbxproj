@@ -13,6 +13,7 @@
 		0A82976F2568329600D6956D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A82976E2568329600D6956D /* Assets.xcassets */; };
 		0A8297722568329600D6956D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A8297712568329600D6956D /* Preview Assets.xcassets */; };
 		0A8297752568329600D6956D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A8297732568329600D6956D /* LaunchScreen.storyboard */; };
+		0A82977E2568348300D6956D /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A82977D2568348300D6956D /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0A8297712568329600D6956D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		0A8297742568329600D6956D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0A8297762568329600D6956D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0A82977D2568348300D6956D /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				0A8297732568329600D6956D /* LaunchScreen.storyboard */,
 				0A8297762568329600D6956D /* Info.plist */,
 				0A8297702568329600D6956D /* Preview Content */,
+				0A82977D2568348300D6956D /* HomeView.swift */,
 			);
 			path = "I Am Rich (SwiftUI)";
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0A8297692568329500D6956D /* AppDelegate.swift in Sources */,
+				0A82977E2568348300D6956D /* HomeView.swift in Sources */,
 				0A82976B2568329500D6956D /* SceneDelegate.swift in Sources */,
 				0A82976D2568329500D6956D /* ContentView.swift in Sources */,
 			);
